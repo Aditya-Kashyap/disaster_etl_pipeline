@@ -74,10 +74,4 @@ https://github.com/Aditya-Kashyap/disaster_response_etl_pipeline
 
 4. Go to http://0.0.0.0:3001/
 
-### Screenshots for the Web App, please go the Screenshot Folder:
-
-#### 1. Home Page
-
-#### 2. Classify Messages Page
-
 
